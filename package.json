@@ -1,0 +1,15 @@
+{
+  "name": "raytrace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^5.10.0",
+    "pngjs-image": "^0.11.7"
+  }
+}
